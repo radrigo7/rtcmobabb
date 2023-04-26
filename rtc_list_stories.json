@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "mediaType": "text",
+            "media": "",
+            "duration": "5.0",
+            "caption": "Домашний интернет Интернет в частный дом от Рокет Телеком Центр — это высокоскоростной доступ до 200 Мб/с.",
+            "when": "Акция",
+            "color": "#303f9f"
+        },
+
+        {
+            "mediaType": "image",
+            "media": "https://rocket-telecom.ru/wp-content/uploads/2021/12/element-rtc-01.png",
+            "duration": "5.0",
+            "caption": "",
+            "when": "Актуально до 11.06.23",
+            "color": ""
+        },
+
+        {
+            "mediaType": "image",
+            "media": "https://rocket-telecom.ru/wp-content/uploads/2023/02/sajt_mesa-de-trabajo-1-scaled.jpg",
+            "duration": "5.0",
+            "caption": "",
+            "when": "Актуально до 20.06.23",
+            "color": ""
+        }
+
+    ]
+
+}

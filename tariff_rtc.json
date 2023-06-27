@@ -7,48 +7,53 @@
         },
         
         {
-            "name": "Базовый 1000",
-            "note": "Бесплатное подключение до 30.06.23",
-            "speed": "100 Мбит/сек",
-            "channels" : "",
-            "cost": "850 р/мес",
-            "cost_promo": "",
-            "promo_length": ""
-        },
-        {
-            "name": "Базовый 150",
-            "note": "Бесплатное подключение до 30.06.23",
+            "name": "Старт S 150",
+            "note": "",
             "speed": "150 Мбит/сек",
             "channels" : "",
-            "cost": "950 р/мес",
-            "cost_promo": "",
-            "promo_length": ""
-        },
-        {
-            "name": "Все включено 100 HD",
-            "note": "Бесплатное подключение до 30.06.23 Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
-            "speed": "50 Мбит/сек",
-            "channels" : "178 каналов",
-            "cost": "790 р/мес",
-            "cost_promo": "890 р/мес",
+            "cost": "690 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "490 р/мес",
             "promo_length": "6 мес"
         },
         {
-            "name": "Все включено 150 HD",
-            "note": "Бесплатное подключение до 30.06.23г. Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
-            "speed": "150 Мбит/сек",
-            "channels" : "178 каналов",
-            "cost": "841 р/мес",
-            "cost_promo": "990 р/мес",
+            "name": "Старт М 250",
+            "note": "",
+            "speed": "250 Мбит/сек",
+            "channels" : "",
+            "cost": "750 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "590 руб/мес",
             "promo_length": "6 мес"
         },
         {
-            "name": "Все включено 200 HD",
-            "note": "Бесплатное подключение до 30.06.23г. Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
-            "speed": "200 Мбит/сек",
+            "name": "Все включено S 150 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
+            "speed": "150 Мбит/сек",
             "channels" : "178 каналов",
-            "cost": "941 р/мес",
-            "cost_promo": "1190 р/мес",
+            "cost": "690 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "490 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено M 250 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
+            "speed": "250 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "890 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "590 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено L 300 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
+            "speed": "300 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "990 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "690 р/мес",
             "promo_length": "6 мес"
         }
      ],
@@ -59,10 +64,123 @@
         
         {
             "name": "Базовый 100",
+            "note": "",
+            "speed": "100 Мбит/сек",
+            "channels" : "",
+            "cost": "850 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Базовый 150",
+            "note": "",
+            "speed": "150 Мбит/сек",
+            "channels" : "",
+            "cost": "950 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Все включено 100 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
+            "speed": "50 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "790 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "890 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 150 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
+            "speed": "150 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "841 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "990 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 200 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
+            "speed": "200 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "941 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "1190 р/мес",
+            "promo_length": "6 мес"
+        }
+     ],
+     [
+        {
+          "cityname" : "Спасск"
+        },
+        
+        {
+            "name": "Базовый 100",
+            "note": "",
+            "speed": "100 Мбит/сек",
+            "channels" : "",
+            "cost": "850 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Базовый 150",
+            "note": "",
+            "speed": "150 Мбит/сек",
+            "channels" : "",
+            "cost": "950 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Все включено 100 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
+            "speed": "50 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "890 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "790 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 150 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
+            "speed": "150 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "990 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "841 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 200 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
+            "speed": "200 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "1190 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "941 р/мес",
+            "promo_length": "6 мес"
+        }
+     ],
+     [
+        {
+          "cityname" : "Никольск"
+        },
+        
+        {
+            "name": "Базовый 100",
             "note": "Бесплатное подключение до 30.06.23",
             "speed": "100 Мбит/сек",
             "channels" : "",
             "cost": "850 р/мес",
+            "installation": "0 руб",
             "cost_promo": "",
             "promo_length": ""
         },
@@ -72,6 +190,7 @@
             "speed": "150 Мбит/сек",
             "channels" : "",
             "cost": "950 р/мес",
+            "installation": "0 руб",
             "cost_promo": "",
             "promo_length": ""
         },
@@ -80,8 +199,9 @@
             "note": "Бесплатное подключение до 30.06.23 Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
             "speed": "50 Мбит/сек",
             "channels" : "178 каналов",
-            "cost": "790 р/мес",
-            "cost_promo": "890 р/мес",
+            "cost": "890 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "790 р/мес",
             "promo_length": "6 мес"
         },
         {
@@ -89,8 +209,9 @@
             "note": "Бесплатное подключение до 30.06.23г. Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
             "speed": "150 Мбит/сек",
             "channels" : "178 каналов",
-            "cost": "841 р/мес",
-            "cost_promo": "990 р/мес",
+            "cost": "990 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "841 р/мес",
             "promo_length": "6 мес"
         },
         {
@@ -98,11 +219,291 @@
             "note": "Бесплатное подключение до 30.06.23г. Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
             "speed": "200 Мбит/сек",
             "channels" : "178 каналов",
-            "cost": "941 р/мес",
-            "cost_promo": "1190 р/мес",
+            "cost": "1190 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "941 р/мес",
+            "promo_length": "6 мес"
+        }
+     ],
+     [
+        {
+          "cityname" : "Нижний Ломов"
+        },
+        
+        {
+            "name": "Базовый 100",
+            "note": "",
+            "speed": "100 Мбит/сек",
+            "channels" : "",
+            "cost": "850 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Базовый 150",
+            "note": "",
+            "speed": "150 Мбит/сек",
+            "channels" : "",
+            "cost": "950 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Все включено 100 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
+            "speed": "50 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "890 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "790 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 150 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
+            "speed": "150 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "990 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "841 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 200 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
+            "speed": "200 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "1190 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "941 р/мес",
+            "promo_length": "6 мес"
+        }
+     ],
+     [
+        {
+          "cityname" : "Земетчино"
+        },
+        
+        {
+            "name": "Базовый 100",
+            "note": "",
+            "speed": "100 Мбит/сек",
+            "channels" : "",
+            "cost": "850 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Базовый 150",
+            "note": "",
+            "speed": "150 Мбит/сек",
+            "channels" : "",
+            "cost": "950 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Все включено 100 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
+            "speed": "50 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "890 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "790 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 150 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
+            "speed": "150 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "990 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "841 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 200 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
+            "speed": "200 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "1190 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "941 р/мес",
+            "promo_length": "6 мес"
+        }
+     ],
+     [
+        {
+          "cityname" : "Ершов"
+        },
+        
+        {
+            "name": "Старт S 150",
+            "note": "",
+            "speed": "150 Мбит/сек",
+            "channels" : "",
+            "cost": "690 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "490 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Старт М 250",
+            "note": "",
+            "speed": "250 Мбит/сек",
+            "channels" : "",
+            "cost": "750 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "590 руб/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено S 150 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
+            "speed": "150 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "690 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "490 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено M 250 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
+            "speed": "250 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "890 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "590 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено L 300 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
+            "speed": "300 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "990 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "690 р/мес",
+            "promo_length": "6 мес"
+        }
+     ],
+     [
+        {
+          "cityname" : "Калиниск"
+        },
+        
+        {
+            "name": "Старт S 150",
+            "note": "",
+            "speed": "150 Мбит/сек",
+            "channels" : "",
+            "cost": "690 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "490 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Старт М 250",
+            "note": "",
+            "speed": "250 Мбит/сек",
+            "channels" : "",
+            "cost": "750 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "590 руб/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено S 150 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
+            "speed": "150 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "690 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "490 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено M 250 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
+            "speed": "250 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "890 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "590 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено L 300 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
+            "speed": "300 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "990 р/мес",
+            "installation": "0 руб",
+            "cost_promo": "690 р/мес",
+            "promo_length": "6 мес"
+        }
+     ],
+     [
+        {
+          "cityname" : "Красный Кут"
+        },
+        
+        {
+            "name": "Базовый 100",
+            "note": "",
+            "speed": "100 Мбит/сек",
+            "channels" : "",
+            "cost": "850 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Базовый 150",
+            "note": "",
+            "speed": "150 Мбит/сек",
+            "channels" : "",
+            "cost": "950 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "",
+            "promo_length": ""
+        },
+        {
+            "name": "Все включено 100 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Первый бандл",
+            "speed": "50 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "890 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "790 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 150 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо лайт",
+            "speed": "150 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "990 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "841 р/мес",
+            "promo_length": "6 мес"
+        },
+        {
+            "name": "Все включено 200 HD",
+            "note": "Первые 6 мес мес пакет ТВ StartNew184 с 7-го Комбо микс + премьер",
+            "speed": "200 Мбит/сек",
+            "channels" : "178 каналов",
+            "cost": "1190 р/мес",
+            "installation": "1000 руб",
+            "cost_promo": "941 р/мес",
             "promo_length": "6 мес"
         }
      ]
- 
   ]  
 }

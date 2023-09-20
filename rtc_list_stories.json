@@ -4,14 +4,6 @@
             "mediaType": "text",
             "media": "",
             "duration": "5.0",
-            "caption": "Уважаемые клиенты, в данный момент наблюдается проблема с оплатой со стороны банка. Уже занимаемся решением проблемы.",
-            "when": "20.09.2023",
-            "color": "#303f9f"
-        },
-        {
-            "mediaType": "text",
-            "media": "",
-            "duration": "5.0",
             "caption": "Уважаемые клиенты, для вашего удобства запущен в работу чат-бот в Telegram Messenger @Rocket_telecom_centr_bot",
             "when": "Чат-бот в Telegram Messenger",
             "color": "#303f9f"

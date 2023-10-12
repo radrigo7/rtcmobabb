@@ -10,19 +10,10 @@
         },
 
         {
-            "mediaType": "image",
+            "mediaType": "inlineImage",
             "media": "https://flash-telecom.ru/wp-content/uploads/2023/05/4783558-01.jpg",
             "duration": "10.0",
-            "caption": "",
-            "when": "",
-            "color": ""
-        },
-
-        {
-            "mediaType": "image",
-            "media": "https://rocket-telecom.ru/wp-content/uploads/2023/02/sajt_mesa-de-trabajo-1-scaled.jpg",
-            "duration": "5.0",
-            "caption": "",
+            "caption": "Теперь за своевременную оплату услуг, вам будет начисляться кешбэк! А для тех, кто долго остается с нами, процент будет увеличиваться! Полные условия начисления кэшбэка доступны на нашем сайте!",
             "when": "",
             "color": ""
         }

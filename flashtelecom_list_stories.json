@@ -4,16 +4,16 @@
             "mediaType": "text",
             "media": "",
             "duration": "5.0",
-            "caption": "Уважаемые клиенты, для вашего удобства запущен в работу чат-бот в Telegram Messenger @Rocket_telecom_centr_bot",
+            "caption": "Уважаемые клиенты, для вашего удобства запущен в работу чат-бот в Telegram Messenger @Flash_telecom_bot",
             "when": "Чат-бот в Telegram Messenger",
-            "color": "#303f9f"
+            "color": "#F76E11"
         },
 
         {
             "mediaType": "image",
-            "media": "https://rocket-telecom.ru/wp-content/uploads/2021/12/element-rtc-3355-1024x1024.png",
+            "media": "https://flash-telecom.ru/wp-content/uploads/2023/05/4783558-01.jpg",
             "duration": "10.0",
-            "caption": "С 01 апреля 2023 года для продолжения пользования услугами на первое число каждого календарного месяца на Лицевом счете Абонента должна находиться сумма, равная или превышающая размер оплаты телевидения за 1 месяц.",
+            "caption": "",
             "when": "",
             "color": ""
         },

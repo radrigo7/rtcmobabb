@@ -6,7 +6,8 @@
             "duration": "5.0",
             "caption": "Уважаемые клиенты, для вашего удобства запущен в работу чат-бот в Telegram Messenger @Rocket_telecom_centr_bot",
             "when": "Чат-бот в Telegram Messenger",
-            "color": "#303f9f"
+            "color": "#303f9f",
+            "textsize": "18.0"
         },
 
         {

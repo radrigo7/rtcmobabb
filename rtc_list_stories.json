@@ -26,7 +26,8 @@
             "duration": "5.0",
             "caption": "",
             "when": "",
-            "color": ""
+            "color": "",
+            "textsize": "18.0"
         }
 
     ]

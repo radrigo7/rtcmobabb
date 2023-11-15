@@ -7,7 +7,8 @@
             "caption": "Уважаемые клиенты, для вашего удобства запущен в работу чат-бот в Telegram Messenger @Rocket_telecom_bot",
             "when": "Чат-бот в Telegram Messenger",
             "color": "#303f9f",
-            "textsize": "18.0"
+            "textsize": "18.0",
+            "clickUrl": "https://t.me/Rocket_telecom_bot"
         },
 
         {
@@ -15,9 +16,10 @@
             "media": "https://rocket-telecom.ru/wp-content/uploads/2021/12/element-rtc-3355-1024x1024.png",
             "duration": "10.0",
             "caption": "С 01 апреля 2023 года для продолжения пользования услугами на первое число каждого календарного месяца на Лицевом счете Абонента должна находиться сумма, равная или превышающая размер оплаты телевидения за 1 месяц.",
-            "when": "Рокет Телеком Центр",
+            "when": "Рокет Телеком",
             "color": "#FFFFFF",
-            "textsize": "18.0"
+            "textsize": "18.0",
+            "clickUrl": ""
         },
 
         {
@@ -27,7 +29,8 @@
             "caption": "",
             "when": "",
             "color": "#FFFFFF",
-            "textsize": "18.0"
+            "textsize": "18.0",
+            "clickUrl": ""
         }
 
     ]

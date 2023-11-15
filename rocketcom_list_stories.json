@@ -19,7 +19,7 @@
             "when": "Рокет Телеком",
             "color": "#FFFFFF",
             "textsize": "18.0",
-            "clickUrl": ""
+            "clickUrl": "https://rocketcom.ru"
         },
 
         {
@@ -30,7 +30,7 @@
             "when": "",
             "color": "#FFFFFF",
             "textsize": "18.0",
-            "clickUrl": ""
+            "clickUrl": "https://rocketcom.ru"
         }
 
     ]

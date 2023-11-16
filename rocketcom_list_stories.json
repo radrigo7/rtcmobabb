@@ -8,7 +8,8 @@
             "when": "Чат-бот в Telegram Messenger",
             "color": "#303f9f",
             "textsize": "18.0",
-            "clickUrl": "https://t.me/Rocket_telecom_bot"
+            "clickUrl": "https://t.me/Rocket_telecom_bot",
+            "clickUrlLabel": "Перейти"
         },
 
         {
@@ -19,7 +20,8 @@
             "when": "Рокет Телеком",
             "color": "#FFFFFF",
             "textsize": "18.0",
-            "clickUrl": ""
+            "clickUrl": "",
+            "clickUrlLabel": "Перейти"
         },
 
         {
@@ -30,7 +32,8 @@
             "when": "",
             "color": "#FFFFFF",
             "textsize": "18.0",
-            "clickUrl": "https://rocketcom.ru"
+            "clickUrl": "https://rocketcom.ru",
+            "clickUrlLabel": "Перейти"
         }
 
     ]

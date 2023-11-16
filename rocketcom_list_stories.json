@@ -9,7 +9,7 @@
             "color": "#303f9f",
             "textsize": "18.0",
             "clickUrl": "https://t.me/Rocket_telecom_bot",
-            "clickUrlLabel": "Перейти"
+            "clickUrlLabel": "Перейти в телеграм бот"
         },
 
         {
@@ -21,7 +21,7 @@
             "color": "#FFFFFF",
             "textsize": "18.0",
             "clickUrl": "",
-            "clickUrlLabel": "Перейти"
+            "clickUrlLabel": ""
         },
 
         {
@@ -33,7 +33,7 @@
             "color": "#FFFFFF",
             "textsize": "18.0",
             "clickUrl": "https://rocketcom.ru",
-            "clickUrlLabel": "Перейти"
+            "clickUrlLabel": "Узнать подроности"
         }
 
     ]

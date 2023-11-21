@@ -22,18 +22,6 @@
             "textsize": "18.0",
             "clickUrl": "",
             "clickUrlLabel": ""
-        },
-
-        {
-            "mediaType": "inlineImage",
-            "media": "https://rocket-telecom.ru/wp-content/uploads/2023/02/sajt_mesa-de-trabajo-1-scaled.jpg",
-            "duration": "5.0",
-            "caption": "",
-            "when": "",
-            "color": "#FFFFFF",
-            "textsize": "18.0",
-            "clickUrl": "https://rocketcom.ru",
-            "clickUrlLabel": "Узнать подроности"
         }
 
     ]

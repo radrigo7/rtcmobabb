@@ -7,7 +7,9 @@
             "caption": "Уважаемые клиенты, для вашего удобства запущен в работу чат-бот в Telegram Messenger @Flash_telecom_bot",
             "when": "Чат-бот в Telegram Messenger",
             "color": "#F76E11",
-            "textsize": "18.0"
+            "textsize": "18.0",
+            "clickUrl": "https://t.me/Flash_telecom_bot",
+            "clickUrlLabel": "Перейти в телеграм бот"
         },
 
         {
@@ -17,7 +19,9 @@
             "caption": "Теперь за своевременную оплату услуг, вам будет начисляться кешбэк! А для тех, кто долго остается с нами, процент будет увеличиваться! Полные условия начисления кэшбэка доступны на нашем сайте!",
             "when": "ФлэшКэш",
             "color": "#FFFFFF",
-            "textsize": "18.0"
+            "textsize": "18.0",
+            "clickUrl": "",
+            "clickUrlLabel": ""
         }
 
     ]

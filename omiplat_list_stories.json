@@ -1,15 +1,15 @@
 {
     "data": [
         {
-            "mediaType": "text",
-            "media": "",
-            "duration": "5.0",
-            "caption": "Уважаемые клиенты, для вашего удобства запущен в работу чат-бот в Telegram Messenger",
-            "when": "Чат-бот в Telegram Messenger",
-            "color": "#303f9f",
+            "mediaType": "image",
+            "media": "https://omiplat.ru/wp-content/uploads/2023/09/omiplat_bonus_montazhnaya_oblast_1.png",
+            "duration": "10.0",
+            "caption": "",
+            "when": "Омиплат Бонусы",
+            "color": "#FFFFFF",
             "textsize": "18.0",
-            "clickUrl": "https://t.me/Rocket_telecom_bot",
-            "clickUrlLabel": "Перейти в телеграм бот"
+            "clickUrl": "https://omiplat.ru/platinum-bonus/",
+            "clickUrlLabel": "Подробнее"
         },
 
         {

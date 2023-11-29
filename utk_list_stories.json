@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "mediaType": "image",
-            "media": "https://omicron.online/img/smart_tv.png",
+            "mediaType": "inlineImage",
+            "media": "https://rocket-telecom.ru/wp-content/uploads/2023/09/ios-1.jpg",
             "duration": "10.0",
             "caption": "Получайте бонусы и увеличивайте кэшбэк!",
             "when": "Омикрон",

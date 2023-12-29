@@ -10,20 +10,7 @@
             "textsize": "18.0",
             "clickUrl": "https://t.me/Rocket_telecom_bot",
             "clickUrlLabel": "Перейти в телеграм бот"
-        },
-
-        {
-            "mediaType": "image",
-            "media": "https://rocket-telecom.ru/wp-content/uploads/2021/12/element-rtc-3355-1024x1024.png",
-            "duration": "10.0",
-            "caption": "С 01 апреля 2023 года для продолжения пользования услугами на первое число каждого календарного месяца на Лицевом счете Абонента должна находиться сумма, равная или превышающая размер оплаты телевидения за 1 месяц.",
-            "when": "Рокет Телеком",
-            "color": "#FFFFFF",
-            "textsize": "18.0",
-            "clickUrl": "",
-            "clickUrlLabel": ""
         }
-
     ]
 
 }

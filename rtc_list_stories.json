@@ -6,7 +6,7 @@
             "duration": "15.0",
             "caption": "",
             "when": "Рокет Телеком Центр",
-            "color": "",
+            "color": "#FFFFFF",
             "textsize": "18.0",
             "clickUrl": "https://rocket-telecom.ru/news/",
             "clickUrlLabel": "Ознакомиться"

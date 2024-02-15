@@ -1,12 +1,12 @@
 {
     "data": [
         {
-            "mediaType": "text",
-            "media": "",
+            "mediaType": "image",
+            "media": "https://rocket-telecom.ru/wp-content/uploads/2024/02/povyshenie_czen_rtcz_2_montazhnaya_oblast_1_01.png",
             "duration": "15.0",
             "caption": "Уважаемые абоненты, 08.02.2024г. на сети провайдера Рокет Телеком Центр будут проводиться плановые ночные работы продолжительностью до 1 часа. Возможен перерыв в работе сервиса в период с 04:00 до 05:00 ночи. Заранее приносим извинения за предоставленное неудобство!",
-            "when": "Плановые работы",
-            "color": "#303f9f",
+            "when": "Рокет Телеком Центр",
+            "color": "",
             "textsize": "18.0",
             "clickUrl": "",
             "clickUrlLabel": ""

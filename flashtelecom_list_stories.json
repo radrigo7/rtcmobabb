@@ -4,6 +4,17 @@
             "mediaType": "text",
             "media": "",
             "duration": "5.0",
+            "caption": "Уважаемые абоненты, у нас новый бесплатный номер. Предыдущий в скором времени будет недоступен!",
+            "when": "У нас новый номер!",
+            "color": "#303f9f",
+            "textsize": "16.0",
+            "clickUrl": "",
+            "clickUrlLabel": "8(800)770-71-02"
+        },
+        {
+            "mediaType": "text",
+            "media": "",
+            "duration": "5.0",
             "caption": "Уважаемые клиенты, для вашего удобства запущен в работу чат-бот в Telegram Messenger @Flash_telecom_bot",
             "when": "Чат-бот в Telegram Messenger",
             "color": "#FFFFFF",

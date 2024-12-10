@@ -8,7 +8,7 @@
             "when": "Изменение стоимости",
             "color": "#FFFFFF",
             "textsize": "18.0",
-            "clickUrl": "Новости",
+            "clickUrl": "",
             "clickUrlLabel": "https://lk.flash-telecom.ru/"
         },
         {

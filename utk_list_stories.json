@@ -1,11 +1,22 @@
 {
     "data": [
+         {
+            "mediaType": "inlineImage",
+            "media": "https://omicron.online/wp-content/uploads/2024/12/omikron-330h660.jpg",
+            "duration": "10.0",
+            "caption": "Изменение стоимости",
+            "when": "Омикрон Интернет",
+            "color": "#FFFFFF",
+            "textsize": "18.0",
+            "clickUrl": "",
+            "clickUrlLabel": ""
+        },
         {
             "mediaType": "inlineImage",
             "media": "https://img.freepik.com/free-psd/shopping-vertical-background_23-2150409473.jpg",
             "duration": "10.0",
             "caption": "Получайте бонусы и увеличивайте кэшбэк!",
-            "when": "Омикрон",
+            "when": "Омикрон Интернет",
             "color": "#FFFFFF",
             "textsize": "18.0",
             "clickUrl": "https://omicron.online/omega-bally/",

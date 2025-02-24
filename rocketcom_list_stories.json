@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "mediaType": "inlineImage",
+            "media": "https://rocketcom.ru/wp-content/uploads/2025/02/330x660.jpg",
+            "duration": "15.0",
+            "caption": "",
+            "when": "Тарифы",
+            "color": "#FFFFFF",
+            "textsize": "15.0",
+            "clickUrl": "https://rocketcom.ru/news/uvedomlenie_ob_indeksacii/",
+            "clickUrlLabel": "Ознакомиться"
+        },
+        {
             "mediaType": "text",
             "media": "",
             "duration": "5.0",

@@ -1,6 +1,17 @@
 {
     "data": [
-         {
+        {
+            "mediaType": "inlineImage",
+            "media": "https://omicron.online/wp-content/uploads/2025/08/lk-omikron-vakansii-storis.jpg ",
+            "duration": "10.0",
+            "caption": "",
+            "when": "Вакансии",
+            "color": "#FFFFFF",
+            "textsize": "18.0",
+            "clickUrl": "https://omicron.online/vakansii/",
+            "clickUrlLabel": "Ознакомиться с вакансиями"
+        },
+        {
             "mediaType": "inlineImage",
             "media": "https://omicron.online/wp-content/uploads/2024/12/omikron-330h660.jpg",
             "duration": "10.0",

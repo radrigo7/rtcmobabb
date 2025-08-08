@@ -2,6 +2,17 @@
     "data": [
         {
             "mediaType": "inlineImage",
+            "media": "https://rocket-telecom.ru/wp-content/uploads/2025/08/lk-rtcz-vakansii-storis.jpg",
+            "duration": "15.0",
+            "caption": "",
+            "when": "Вакансии",
+            "color": "#FFFFFF",
+            "textsize": "15.0",
+            "clickUrl": "https://rocket-telecom.ru/vakansii-kompanii/",
+            "clickUrlLabel": "Ознакомиться"
+        },
+        {
+            "mediaType": "inlineImage",
             "media": "https://rocket-telecom.ru/wp-content/uploads/2025/02/330╤e660.png",
             "duration": "15.0",
             "caption": "",
@@ -21,20 +32,9 @@
             "textsize": "18.0",
             "clickUrl": "https://t.me/Rocket_telecom_centr_bot",
             "clickUrlLabel": "Перейти в телеграм бот"
-        },
-
-        {
-            "mediaType": "image",
-            "media": "https://rocket-telecom.ru/wp-content/uploads/2023/02/sajt_mesa-de-trabajo-1-scaled.jpg",
-            "duration": "5.0",
-            "caption": "",
-            "when": "",
-            "color": "",
-            "textsize": "18.0",
-            "clickUrl": "",
-            "clickUrlLabel": ""
         }
 
     ]
 
 }
+

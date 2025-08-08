@@ -7,7 +7,7 @@
             "caption": "",
             "when": "Вакансии",
             "color": "#FFFFFF",
-            "textsize": "15.0",
+            "textsize": "18.0",
             "clickUrl": "https://rocketcom.ru/poisk/",
             "clickUrlLabel": "Ознакомиться с вакансиями"
         },

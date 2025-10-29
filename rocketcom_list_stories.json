@@ -3,22 +3,22 @@
         {
             "mediaType": "inlineImage",
             "media": "https://rocketcom.ru/wp-content/uploads/2025/10/roket-mop-post-1.jpg",
-            "duration": "15.0",
+            "duration": "20.0",
             "caption": "",
             "when": "Вакансии",
             "color": "#FFFFFF",
-            "textsize": "18.0",
+            "textsize": "19.0",
             "clickUrl": "https://rocketcom.ru/poisk/",
             "clickUrlLabel": "Ознакомиться с вакансиями"
         },
         {
             "mediaType": "inlineImage",
             "media": "https://rocketcom.ru/wp-content/uploads/2025/10/roket-montazhnik-post-s-logo-1.jpg",
-            "duration": "15.0",
+            "duration": "20.0",
             "caption": "",
             "when": "Вакансии",
             "color": "#FFFFFF",
-            "textsize": "18.0",
+            "textsize": "19.0",
             "clickUrl": "https://rocketcom.ru/poisk/",
             "clickUrlLabel": "Ознакомиться с вакансиями"
         },

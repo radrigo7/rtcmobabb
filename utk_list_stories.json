@@ -3,11 +3,11 @@
         {
             "mediaType": "inlineImage",
             "media": "https://omicron.online/wp-content/uploads/2025/10/omikron-mop-post-1.jpg",
-            "duration": "10.0",
+            "duration": "20.0",
             "caption": "",
             "when": "Вакансии",
             "color": "#FFFFFF",
-            "textsize": "18.0",
+            "textsize": "19.0",
             "clickUrl": "https://omicron.online/vakansii/",
             "clickUrlLabel": "Ознакомиться с вакансиями"
         },
